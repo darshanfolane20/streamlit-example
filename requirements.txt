@@ -1,5 +1,3 @@
-streamlit==1.11.0
-# Generated on: Python 3.8.16
 asn1crypto==1.5.1
 certifi==2023.5.7
 cffi==1.15.1
